@@ -1,3 +1,15 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="500" />
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_INLINE_COMMENTS" value="true" />
+    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="TERNARY_OPERATION_WRAP" value="2" />
+    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="2" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
 </code_scheme>
